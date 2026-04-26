@@ -1,0 +1,36 @@
+
+body {
+    font-family: Monospace; /* Changes the default font */
+    background-color: #f4f4f4; /* Sets a light grey background */
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    color: #1c1aac; /* Sets header color to dark grey */
+    text-align: center;
+    font-family: Cursive;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+h2 {
+    color: #1c1aac; /* Sets header color to dark grey */
+    text-align: center;
+    font-family: Cursive;
+    font-style: italic;
+    font-size: 30px;
+    background-color: #79e9da;
+}
+
+
+h6 {
+    color: #0c0c0c; /* Sets header color to dark grey */
+    text-align: center;
+    font-family: Monospace;
+    font-size: 20px;
+}
+
+
+
